@@ -1,8 +1,8 @@
 ---
 title: Zhengchu ZHANG 张正出
-role: Ph.D. student in Strategy & Entrepreneurship, Lee Kong Chian School of
-  Business, Singapore Management University (SMU)
-avatar_filename: photo_zzc.jpg
+role: Ph.D. student in Strategy & Entrepreneurship, Singapore Management
+  University (SMU)
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
@@ -23,7 +23,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/zhengchu-zhang-276a7b232/
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
